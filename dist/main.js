@@ -1,1 +1,1 @@
-(()=>{"use strict";console.log("что-то работает")})();
+(()=>{"use strict";(new class{start(){console.log("game started")}}).start(),console.log("что-то работает")})();
